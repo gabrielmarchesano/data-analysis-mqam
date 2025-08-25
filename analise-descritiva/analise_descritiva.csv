@@ -1,5 +1,5 @@
 Variáveis Quantitativas
-variavel,media,mediana,moda,variancia,desvio_padrao,coeficiente_variacao,quartil_1,quartil_2,quartil_3
+variavel,media_amostral,mediana,moda,variancia_amostral,dp_amostral,coeficiente_variacao,quartil_1,quartil_2,quartil_3
 idade,54.43414634146342,56.0,58.0,82.3064500762195,9.072290233244278,0.16666542681378949,48.0,56.0,61.0
 pressao_sanguinea,131.61170731707318,130.0,120.0,306.835409679878,17.516718005376408,0.13309391970104828,120.0,130.0,140.0
 colesterol_total,246.0,240.0,204.0,2661.787109375,51.59251020618206,0.20972565124464254,211.0,240.0,275.0
@@ -9,7 +9,7 @@ inclinação_ST_ex,1.3853658536585365,1.0,1.0,0.3816215701219513,0.6177552671745
 n_vc,0.7541463414634146,0.0,0.0,1.0625438262195124,1.0307976650242823,1.3668403708277999,0.0,0.0,1.0
 
 
-Variáveis Qualitativas
+Variáveis Qualitativas/Categóricas
 
 sexo
 Categoria,Frequência Absoluta,Frequência Relativa
@@ -38,11 +38,11 @@ Moda: Com Doença
 
 tipo_dor_peito
 Categoria,Frequência Absoluta,Frequência Relativa
-Tipo 0,497,0.4848780487804878
-Tipo 2,284,0.27707317073170734
-Tipo 1,167,0.1629268292682927
-Tipo 3,77,0.07512195121951219
-Moda: Tipo 0
+Assintomático,497,0.4848780487804878
+Em esforço moderado,284,0.27707317073170734
+Em esforço intenso ou prolongado ,167,0.1629268292682927
+Em esforço leve,77,0.07512195121951219
+Moda: Assintomático
 
 result
 Categoria,Frequência Absoluta,Frequência Relativa
