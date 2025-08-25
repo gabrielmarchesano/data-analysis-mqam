@@ -1,0 +1,58 @@
+Variáveis Quantitativas
+variavel,media,mediana,moda,variancia,desvio_padrao,coeficiente_variacao,quartil_1,quartil_2,quartil_3
+idade,54.43414634146342,56.0,58.0,82.3064500762195,9.072290233244278,0.16666542681378949,48.0,56.0,61.0
+pressao_sanguinea,131.61170731707318,130.0,120.0,306.835409679878,17.516718005376408,0.13309391970104828,120.0,130.0,140.0
+colesterol_total,246.0,240.0,204.0,2661.787109375,51.59251020618206,0.20972565124464254,211.0,240.0,275.0
+max_bpm,149.11414634146342,152.0,162.0,529.2633250762195,23.005723745977207,0.15428263723077842,132.0,152.0,166.0
+ST_depressao_extest,1.0715121951219515,0.8,0.0,1.3807501524390244,1.175053255150176,1.0966307807784121,0.0,0.8,1.8
+inclinação_ST_ex,1.3853658536585365,1.0,1.0,0.3816215701219513,0.6177552671745918,0.44591489355912445,1.0,1.0,2.0
+n_vc,0.7541463414634146,0.0,0.0,1.0625438262195124,1.0307976650242823,1.3668403708277999,0.0,0.0,1.0
+
+
+Variáveis Qualitativas
+
+sexo
+Categoria,Frequência Absoluta,Frequência Relativa
+Masculino,713,0.6956097560975609
+Feminino,312,0.304390243902439
+Moda: Masculino
+
+diabetes
+Categoria,Frequência Absoluta,Frequência Relativa
+Não,872,0.8507317073170731
+Sim,153,0.14926829268292682
+Moda: Não
+
+eletro_result
+Categoria,Frequência Absoluta,Frequência Relativa
+Alterações da onda ST-T,513,0.5004878048780488
+Normal,497,0.4848780487804878
+Hipertrofia ventricular esquerda,15,0.014634146341463415
+Moda: Alterações da onda ST-T
+
+target
+Categoria,Frequência Absoluta,Frequência Relativa
+Com Doença,526,0.5131707317073171
+Sem Doença,499,0.4868292682926829
+Moda: Com Doença
+
+tipo_dor_peito
+Categoria,Frequência Absoluta,Frequência Relativa
+Tipo 0,497,0.4848780487804878
+Tipo 2,284,0.27707317073170734
+Tipo 1,167,0.1629268292682927
+Tipo 3,77,0.07512195121951219
+Moda: Tipo 0
+
+result
+Categoria,Frequência Absoluta,Frequência Relativa
+Anomalia Corrigida,544,0.5307317073170732
+Anomalia Reversível,410,0.4
+Normal,71,0.06926829268292684
+Moda: Anomalia Corrigida
+
+dp_exercicio
+Categoria,Frequência Absoluta,Frequência Relativa
+Não,680,0.6634146341463415
+Sim,345,0.33658536585365856
+Moda: Não
