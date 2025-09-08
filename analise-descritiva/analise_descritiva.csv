@@ -70,3 +70,9 @@ Categoria,Frequência Absoluta,Frequência Relativa
 Não,329,0.658
 Sim,171,0.342
 Moda: Não
+
+GLO
+Categoria,Frequência Absoluta,Frequência Relativa
+Maior ou igual a 50%,330,0.66
+Menor que 50%,170,0.34
+Moda: Maior ou igual a 50%
